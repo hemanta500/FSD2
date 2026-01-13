@@ -1,4 +1,4 @@
-# Experiment Report: Basic Single Page Application (SPA)
+# 🧪 Experiment Report: Basic Single Page Application (SPA)
 
 ## 🎯 Objective
 To design and develop a basic **Single Page Application (SPA)** using a modern frontend framework and understand its structure, build process, and deployment workflow.
@@ -29,7 +29,19 @@ The main goal is to understand how Single Page Applications (SPA) work using mod
 
 ---
 
+## 🎓 Learning Outcomes
+By the end of this experiment, I have achieved the following:
+* **Project Structure:** Understood the internal folders and files of a React app created via Vite.
+* **Tooling Proficiency:** Learned to build and run React projects using modern build tools.
+* **Environment Logic:** Successfully differentiated between **Development Mode** (HMR) and **Production Build** (Minification).
+* **Deployment:** Mastered deploying a React application on Netlify using the `dist` folder.
+* **Architectural Insight:** Gained a clear understanding of the **Single Page Application (SPA)** working concept.
+
+---
+
 ## 🔍 SPA vs. MPA: Key Differences
+
+
 
 | Feature | SPA (Single Page Application) | MPA (Multi Page Application) |
 | :--- | :--- | :--- |
@@ -38,8 +50,6 @@ The main goal is to understand how Single Page Applications (SPA) work using mod
 | **Navigation** | Happens without page reload | Page reloads on navigation |
 | **User Experience** | Smooth and app-like | Traditional website behavior |
 | **Example** | React, Angular, Vue apps | Classic HTML / PHP websites |
-
-
 
 ---
 
