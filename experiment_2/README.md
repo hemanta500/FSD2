@@ -2,7 +2,7 @@
 
 ## Learning Outcomes
 
-1. CompoBuilding with Blocks: Learn how to make a complete screen by putting together smaller parts like buttons, checkboxes, and star ratings.
+1. Building with Blocks: Learn how to make a complete screen by putting together smaller parts like buttons, checkboxes, and star ratings.
 
 2. Saving Information: Learn how to use "state" so the app remembers what the user clicks or types while they are using it.
 
