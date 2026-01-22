@@ -1,9 +1,12 @@
-import ButtonBasic from "./Button";
-export default function Home() {
+import ButtonBasic from './Button.jsx';
+
+const Home = () => {
   return (
-    <div>
+    <section>
       <h2>Home Page</h2>
-      <ButtonBasic />
-    </div>
+      <ButtonBasic></ButtonBasic>
+    </section>
   );
-}
+};
+
+export default Home;
